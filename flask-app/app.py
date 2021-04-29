@@ -45,6 +45,11 @@ def check_and_load_index():
 ###########
 ### APP ###
 ###########
+# add a new hello route
+@app.route('/hello')
+def hello():
+  return "hello world!"
+
 @app.route('/')
 def index():
     return render_template('index.html')
