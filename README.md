@@ -1,7 +1,9 @@
 SF Food Trucks
 ===
 
-> San Francisco's finger-licking street food now at your fingertips.
+### Show your support
+
+Give a ⭐ if this project was helpful in any way!
 
 ![img](shot.png)
 **N.B This repo is inspired by and Taken from https://github.com/prakhar1989/FoodTrucks**  
